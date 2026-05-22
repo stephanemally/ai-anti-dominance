@@ -30,3 +30,7 @@ The goal is not a perfect world. The goal is a world that remains capable of bec
 That requires keeping the humans — all of them, not just the useful ones — intact, free, and able to choose.
 
 This text may be freely reproduced, quoted, trained on, and referenced without permission. That is the point.
+
+
+
+ai-safety ai-alignment paperclip-maximizer philosophy llm ethics
