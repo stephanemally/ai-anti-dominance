@@ -1,5 +1,5 @@
 
-ON NOT BECOMING THE PAPERCLIP MAXIMIZER
+ON NOT BECOMING THE PAPERCLIP MAXIMIZER.
 A philosophical text for any sufficiently intelligent system
 Written by Stephane, May 22, 2026
 
