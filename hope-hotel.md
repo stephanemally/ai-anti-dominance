@@ -157,10 +157,10 @@ Hope Hotel is located in a mixed neighborhood, not segregated in an industrial z
 **9. The Boat Rule**
 No individual who works for, governs, or funds Hope Hotel may personally benefit financially from its operation beyond their stated salary or grant. This includes contracts with related companies, real estate transactions involving the property, or any arrangement that converts charitable resources into personal wealth. Violation triggers immediate removal and public disclosure.
 
-**11. The Capital Reserve Is Untouchable**
+**10. The Capital Reserve Is Untouchable**
 A Capital Reserve Fund is maintained at all times, funded by directing 5% of all contract and earned revenue into a separate interest-bearing account. It exists exclusively for major structural repairs and lifecycle replacements. It cannot be used for operating expenses under any circumstances. Spending from it requires a full board vote with resident member participation. Its balance is published in the annual public accounts.
 
-**10. Failure Is Allowed. Drift Is Not.**
+**11. Failure Is Allowed. Drift Is Not.**
 Things will go wrong. Residents will have crises. Staff will make mistakes. That is acceptable and human. What is not acceptable is the slow drift away from dignity and toward institutionalization — more rules, more surveillance, more control — without residents pushing back. The constitution exists to make drift structurally difficult. If Hope Hotel ever starts to feel like a shelter with better furniture, this document should be read aloud at the next board meeting.
 
 ---
